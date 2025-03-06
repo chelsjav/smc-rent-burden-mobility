@@ -1,5 +1,5 @@
 # Rent Burden and Mobility Trends in San Mateo County
-Project IX: Chelsea Javier, Zhilie Qian, Qinuo Yang
+Chelsea Javier, Zhilie Qian, Qinuo Yang
 
 # 📁 Description
 Analysis of rent burden and geographical mobility in San Mateo County using census data, spatial mapping, and causal inference techniques. This study explores the impact of housing affordability on displacement trends and demographic shifts over the past decade.
